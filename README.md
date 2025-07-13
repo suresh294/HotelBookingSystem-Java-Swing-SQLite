@@ -13,4 +13,3 @@ It includes features like:
 ## 💻 Technologies Used
 Java, Swing, SQLite, SQLite-JDBC
 
-## 📦 Folder Structure
