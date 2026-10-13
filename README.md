@@ -1,5 +1,7 @@
 # Hotel Booking System — Java Swing + SQLite
 
+[![CI](https://github.com/suresh294/HotelBookingSystem-Java-Swing-SQLite/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/suresh294/HotelBookingSystem-Java-Swing-SQLite/actions/workflows/ci.yml)
+
 A desktop learning project built with Java Swing and SQLite. The GUI supports room booking, check-in recording, billing entries, a booking list, and a combined history viewer.
 
 ## Features
